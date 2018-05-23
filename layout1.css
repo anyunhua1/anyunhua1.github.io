@@ -1,4 +1,4 @@
-@charset "utf-8";
+	@charset "utf-8";
 /* CSS Document */
 
 body{
@@ -30,8 +30,11 @@ img{
 	clear:both;
 	}
 #imagegallery{
-list-style:none;}
+	list-style:none;
+	}
 #imagegallery li{
-display:inline;}
+	display:inline;
+	}
 #imagegallery li a img{
-border:0;}
+	border:0;
+	}
