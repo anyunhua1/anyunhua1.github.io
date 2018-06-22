@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	background-color: #fff;
+}
+caption {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: auto;
+	padding: 1.2em;
+}
+table {
+	margin: auto;
+	border:1px solid #699;
+}
+th {
+	font-style: italic;
+	font-weight: normal;
+	color: #000;
+	background-color: #9cc;
+	text-align: left;
+	border:1px dotted #699;
+}
+th,td{
+	width:10em;
+	padding:1.5em;
+	}
+
