@@ -9,4 +9,3 @@ function addLoadEvent(func){
      }
    }
 }
-addLoadEvent(stripeTables);
